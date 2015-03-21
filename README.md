@@ -9,7 +9,7 @@ MultiPython-For-Windows comes with ABSOLUTELY NO WARRANTY; For details see the f
 # Scripts Included
 * easy_install (points to easy_install.exe in Scripts folder) (Python 2.7 and Python 3.4)
 * Python (points to python.exe in Python root folder) (Python 2.7 and Python 3.4)
-* Python No Terminal (points pythonw.exe in Python root folder) (Python 2.7 and Python 3.4)
+* Python No Terminal (points to pythonw.exe in Python root folder) (Python 2.7 and Python 3.4)
 
 # Installation
 
