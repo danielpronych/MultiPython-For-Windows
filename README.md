@@ -15,12 +15,11 @@ MultiPython-For-Windows comes with ABSOLUTELY NO WARRANTY; For details see the f
 
 Download the project, such as from https://github.com/danielpronych/MultiPython-For-Windows/archive/master.zip, and install in a standard location. The configuration guide assumes the path chosen is **"C:\Apps\MultiPython"**; however, there is no specific requirement to install the scripts into this location.
 
-
 # Configuration
 
 Modify the Windows Environment Variables and add the path to the MultiPython-For-Windows installation folder, for example **"C:\Apps\MultiPython"** (or applicable installation path if different than this path), https://docs.python.org/2/using/windows.html#excursus-setting-environment-variables.
 
-If Python 2.7 and/or Python 3.4 are installed in different directories than those noted below, then the applicable PYTHONPATH variables will need to modified the related scripts:
+If Python 2.7 and/or Python 3.4 are installed in different directories than those noted below, then the applicable *PYTHONDIR* variables will need to modified as per the scripts noted below:
 
     Python 2.7: C:\Apps\Python\2.7 (Configuration File: config_python_2.7.cmd)
     Python 3.4: C:\Apps\Python\3.4 (Configuration File: config_python_3.4.cmd)
