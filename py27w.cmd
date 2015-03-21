@@ -12,5 +12,5 @@ setlocal
 REM - Run Configuration File For Python 2.7 Environment
 call %~dp0%config_python_2.7.cmd
 REM - Run Python Windows Executable
-"%PYTHONPATH%\pythonw" %1 %*
+"%PYTHONDIR%\pythonw" %1 %*
 endlocal
