@@ -12,5 +12,5 @@ setlocal
 REM - Run Configuration File For Python 3.4 Environment
 call %~dp0%config_python_3.4.cmd
 REM - Run Python Executable
-"%PYTHONPATH%\python" %1 %*
+"%PYTHONDIR%\python" %1 %*
 endlocal
