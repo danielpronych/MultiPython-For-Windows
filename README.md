@@ -23,3 +23,7 @@ If Python 2.7 and/or Python 3.4 are installed in different directories than thos
 
     Python 2.7: C:\Apps\Python\2.7 (Configuration File: config_python_2.7.cmd)
     Python 3.4: C:\Apps\Python\3.4 (Configuration File: config_python_3.4.cmd)
+
+# Other Python Versions & Script Relationships
+
+Additional, and/or other Python versions, can be added to this package by creating an associated config_python_x.y.cmd file and the related Python scripts files such as to the python.exe (pyxy.py), pythonw.exe (pyxyw.py) and easy-install.exe (pyeixy.py) files used by the related Python version. Additional scripts can be added using this same format as well for the currently specified versions and other versions as needed using this format as well.
