@@ -10,6 +10,6 @@ REM - MultiPython-For-Windows comes with ABSOLUTELY NO WARRANTY; For details
 REM - see the file named LICENSE.txt in the root of the source directory tree.
 
 REM - Modify If Required - Python Directory Used By Python 3.4 Command Scripts
-set PYTHONDIR="C:\Apps\Python\3.4\"
+set PYTHONDIR=C:\Apps\Python\3.4\
 REM - Do Not Modify Below Unless Necessary
 set PYTHONPATH=%PYTHONDIR%;%PYTHONPATH%

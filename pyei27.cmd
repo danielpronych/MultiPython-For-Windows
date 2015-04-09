@@ -12,5 +12,5 @@ setlocal
 REM - Run Configuration File For Python 2.7 Environment
 call %~dp0%config_python_2.7.cmd
 REM - Run Python Easy Install Executable
-"%PYTHONDIR%\Scripts\easy_install" %1 %*
+"%PYTHONDIR%\Scripts\easy_install" %*
 endlocal
